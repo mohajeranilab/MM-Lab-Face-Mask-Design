@@ -1,3 +1,3 @@
 Face Mask Personal Protective Equipment (PPE)
 
-![Mask](/Capture4.PNG)
+![Mask](/instruction_mask.PNG.PNG)
